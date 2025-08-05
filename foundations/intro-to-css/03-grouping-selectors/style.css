@@ -1,0 +1,13 @@
+.fst-btn.snd-btn {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.fst-btn {
+  color: white;
+  background-color: black;
+}
+
+.snd-btn {
+  background-color: yellow;
+}
